@@ -1,5 +1,6 @@
 **#PrivacySense - Enterprise-Wide Personal Data Discovery & Classification (DPDPA-Aligned)
 **
+
 **## Project Overview**
 This project is a secure enterprise web application designed to discover, classify, and manage personal data across organizational systems in compliance with the Digital Personal Data Protection Act, 2023.
 
