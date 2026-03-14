@@ -85,6 +85,7 @@ Check Node version:
 
 You should see the following files and folders:
 
+extract all the files before using 
 - src
 - docs
 - node_modules
